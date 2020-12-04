@@ -1,4 +1,4 @@
-# Deepview_Sub2
+# Deepview_Sub2 (딥뷰-2세부) 2020
 
 ## 1 Description
    * DerainZoo: A list of deraining methods. Papers, codes and datasets are maintained. Other sources about deraining can be observed in [web1](https://github.com/TaiXiangJiang/FastDeRain) and [web2](https://github.com/hongwang01/Video-and-Single-Image-Deraining).
