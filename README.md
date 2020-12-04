@@ -6,8 +6,6 @@
    * Deepview_sub2 Zoo: A list of deepview_sub2 methods. Papers, codes and datasets are maintained. 
 
    * Datasets for deepview are available at the [website](https://github.com/nnUyi/DerainZoo/blob/master/DerainDatasets.md).
-   
-   * More datasets about other image processing task (brightening, HDR, color enhancement, and inpainting) are available [here](https://github.com/nnUyi/Image-Processing-Datasets).
 
 ## 2 전역 추적 기술
 ### 2.1 Multi-Object Tracking (MOT)
