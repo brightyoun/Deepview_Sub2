@@ -1,6 +1,6 @@
 # Deepview_Sub2 (딥뷰-2세부) 2020
 
-<p align='center'><img src='./deepview_main.jpg' height="600px"/></p>
+<p align='center'><img src='./deepview_main.jpg' height="300px"/></p>
 
 ## 1 Description
    * Deepview_sub2 Zoo: A list of deepview_sub2 methods. Papers, codes and datasets are maintained. 
