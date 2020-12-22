@@ -22,7 +22,7 @@
 * Adversarial_IFTN [[paper](https://arxiv.org/abs/2001.11175)] [[code](https://github.com/andreYoo/Adversarial_IFTN
 )] (IV'2020)
 ### 3.2 Graph Convolutional Network
-* Adversarial_IFTN [[paper](https://arxiv.org/abs/2003.07514)] [[code](https://github.com/andreYoo/PeGCNs
+* PeGCNs [[paper](https://arxiv.org/abs/2003.07514)] [[code](https://github.com/andreYoo/PeGCNs
 )] (Arxiv'2020)
 
 ## 4 번호판 검출 및 인식 기술
