@@ -28,16 +28,18 @@
 ## 4 번호판 검출 및 인식 기술
 * SNIDER [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/RLQ/Lee_SNIDER_Single_Noisy_Image_Denoising_and_Rectification_for_Improving_License_ICCVW_2019_paper.html)] [[code](https://github.com/brightyoun/LPSR-Recognition
 )] (VISAPP'19, ICCVW'19)
-* Adversarial_IFTN [[paper](https://arxiv.org/abs/2003.07514)] [[code](https://github.com/andreYoo/PeGCNs
-)] (Arxiv'2020)
-* Adversarial_IFTN [[paper](https://arxiv.org/abs/2003.07514)] [[code](https://github.com/andreYoo/PeGCNs
-)] (Arxiv'2020)
+* License Plate Recognition [[code](https://github.com/marcbelmont/deep-license-plate-recognition
+)] (ICCVW'2019)
+* License Plate Detection [[code](https://github.com/ThorPham/License-plate-detection
+)] (Submitted to T-ITS'20)
 
 ## 5 다중 객체 검출 기술
 * PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
 
 ## 6 메타데이터 검색 기술
-* PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
+* MTL-TSR [[paper]](https://arxiv.org/abs/2004.01351) [[code]](https://github.com/brightyoun/MTL_TSR) (IV'20)
+* fleenet [[paper]](https://arxiv.org/abs/2004.01351) [[code]](https://github.com/mchancan/flynet) (IV'20)
+
 
 ## 7 ETC
 * PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
