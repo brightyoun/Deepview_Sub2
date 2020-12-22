@@ -1,5 +1,8 @@
 # Deepview_Sub2 (딥뷰-2세부) 2020
 
+## 참여기관
+  * 광주과학기술원 (GIST), 고려대학교, 중앙대학교, 한국전자기술연구원, (주)넥스파시스템, (주)다누시스
+
 <p align='center'><img src='./deepview_main.jpg' height="300px"/></p>
 
 ## 1 Description
@@ -34,7 +37,7 @@
 )] (Submitted to T-ITS'20)
 
 ## 5 다중 객체 검출 기술
-* PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
+* PFPNet [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.html)  [[python code]](https://github.com/chosj95/PFPNet.pytorch) (ECCV'18)
 
 ## 6 메타데이터 검색 기술
 * MTL-TSR [[paper]](https://arxiv.org/abs/2004.01351) [[code]](https://github.com/brightyoun/MTL_TSR) (IV'20)
@@ -42,4 +45,16 @@
 
 
 ## 7 ETC
-* PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
+### 7.1 Lane Detection
+* PINet [[paper]](https://arxiv.org/abs/2002.06604) [[python code]](https://github.com/koyeongmin/PINet)
+* PINet_new [[paper]](https://arxiv.org/abs/2002.06604) [[python code]](https://github.com/koyeongmin/PINet_new)
+
+### 7.2 Loss Function for Efficient Learning
+* Complement Cross Entropy [[paper]](https://arxiv.org/abs/2009.02189) [[python code]](https://github.com/unique-chan/Complement-Cross-Entropy)
+
+### 7.3 Image Enhancement
+* De-Weathering [[python code]](https://github.com/brightyoun/De-Weathering-AI)
+# Rain-drop Generation [[python code]](https://github.com/brightyoun/RainDrop-Effect_Python3)
+
+### 7.4 Style Generation
+# Video Style Transfer [[python code]](https://github.com/brightyoun/Video-Style-Transfer)
